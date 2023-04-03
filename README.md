@@ -1,3 +1,7 @@
+Note
+-----
+Providers are picked from `providers` folder which is built using this repo -> https://github.com/UPHRH-platform/casa-keycloak-storage-provider
+
 Keycloak
 ========
 
